@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(222, 222, 222);
+  font-family: Arial, sans-serif;
+}
+
+
+.box-detal {
+  max-width: 1170px;
+  height: 530px;
+  margin-top: 35px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 200px;
+  padding: 20px;
+  border: 1px solid grey;
+  background-color: rgb(255, 255, 255);
+}
+
+hr {
+  margin: 20px 0;
+	padding: 0;
+	height: 0;
+	border: none;
+  border-top: 1.5px dotted #ddd;
+  border-color: salmon;
+}
+
+a {
+  font-size: 18px;
+ }
